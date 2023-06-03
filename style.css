@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    padding-top: 10px;
+}
+
+.header-logo {
+    width: 150px;
+}
+
+.special-button {
+    background-color: #21B573;
+    color: white;
+    padding: 5px 20px;
+    outline: auto;
+    border-radius: 33px;
+    transition: .30s;
+}
+
+.special-button:hover {
+    background-color: #1ca165;
+}
+
+.add-bg {
+    background: #F0FFF0;
+    padding-bottom: 60px;
+}
+
+.header-images {
+    width: 100%;
+}
+.container {
+    margin-bottom: 100px;
+}
+
+.this-red {
+    color: red;
+    font-size: 15px;
+}
+
+.this-bold {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.color-define {
+    color: #21B573;
+}
+
+.more-special {
+    padding: 10px 30px;
+}
+
+.margining {
+    margin-top: 50px;
+}
+
+.last-same-image {
+    width: 30%;
+    padding-bottom: 20px;
+}
+
+.margining {
+    margin-top: 50px;
+}
+
+.cards {
+    box-shadow: 5px 5px 30px rgb(216, 215, 215);
+    text-align: center;
+    padding: 50px 10px 30px 10px;
+    border-radius: 10px;
+    transition: .30s;
+}
+
+.cards:hover {
+    box-shadow: 5px 20px 30px rgb(185, 185, 185);
+}
+
+.alignment {
+    text-align: center;
+}
+
+.sm-img-contain {
+    width: 90%;
+    padding-bottom: 20px;
+}
+
+.card-add {
+    box-shadow: 5px 15px 30px rgb(226, 226, 226);
+    padding: 50px 0px 0px 33px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.short-image {
+    width: 15%;
+}
+
+.fav-para {
+    margin-left: 65px;
+}
+
+.me-photo {
+    width: 80%;
+    border-radius: 150px;
+}
+
+.alignment-para {
+    margin-top: 100px;
+}
+
+.extra-align {
+    margin-top: 150px
+}
+
+.add-footer-bg {
+    background: #282531;
+    color: rgb(194, 194, 194);
+    padding-top: 70px;
+}
+
+.footer-marg {
+    margin-bottom: 0;
+}
+
+.block-level a {
+    text-decoration: none;
+    color: rgb(194, 194, 194);
+}
+
+.block-level a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.extra-design {
+    margin-left: 75px;
+}
+
+.footer-heading-five {
+    color: white;
+}
+
+.last-alignment {
+    margin-bottom: 0;
+}
+
+.alignment-para-of-footer {
+    margin-top: 100px;
+    text-align: center;
+    padding-bottom: 2px;
+    font-size: 13px;
+}
